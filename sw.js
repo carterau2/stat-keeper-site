@@ -13,8 +13,8 @@
 //   has (a game in progress is never reloaded underneath the keeper); the next time the app is
 //   opened it is the new build.
 // - Nothing here touches the games. They live in the device's database, not in this cache.
-const BUILD = "2026-10-01T05:33:57.804Z";
-const FILES = ["./","assets/index-D6zb3dbV.js","assets/index-zs3kzrsa.css","favicon.svg","icons/icon-180.png","icons/icon-192.png","icons/icon-512.png","manifest.webmanifest"];
+const BUILD = "2026-10-01T05:36:00.529Z";
+const FILES = ["./","assets/index-Ci_YlC3e.js","assets/index-zs3kzrsa.css","favicon.svg","icons/icon-180.png","icons/icon-192.png","icons/icon-512.png","manifest.webmanifest"];
 
 // One cache per build, named for this app's address so two apps on the same site never clear
 // each other's copy.
